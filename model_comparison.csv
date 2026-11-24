@@ -1,0 +1,5 @@
+Model,RMSE,MAE,Precision@10,Recall@10
+Popularity (Item Mean),0.9549,0.7669,0.001,0.0021
+Content-Based (TF-IDF),,,0.0969,0.1523
+Item-Item KNN,0.8839,0.6218,0.1262,0.204
+SVD,0.8503,0.6597,0.0107,0.012
